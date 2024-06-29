@@ -1,0 +1,9 @@
+{
+    "bitburner.authToken": "ih5StfAwmOOwb04PgaO5Z1DyGZ+DUP8hYewUBdVxr6yG4PPDPokbZj5ziEdNztXa",
+    "autoSnippet.snippets": [
+        {
+            "language": "javascript",
+            "snippet": "basic-template"
+        }
+    ]
+}
